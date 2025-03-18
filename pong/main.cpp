@@ -1,5 +1,5 @@
-//linker::system::subsystem  - Windows(/ SUBSYSTEM:WINDOWS)
-//configuration::advanced::character set - not set
+//linker::system::subsystem  - Windows(/ SUBSYSTEM:WINDOWS)123123123123123
+//configuration::advanced::character set - not set123123123123
 //linker::input::additional dependensies Msimg32.lib; Winmm.lib
 
 #include "windows.h"

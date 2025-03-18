@@ -1,39 +1,39 @@
 ﻿  main.cpp
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(23,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(23,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(23,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(23,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(63,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(64,53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(76,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(81,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(116,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(152,18): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(163,13): warning C4101: 'hbm': unreferenced local variable
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(193,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(193,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(193,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(193,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(207,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(211,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(211,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(211,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(211,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(241,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(242,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(274,33): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(294,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(417,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(418,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(425,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(426,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(430,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(430,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(430,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(430,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(431,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(431,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(432,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Кирилл\Desktop\pong5\pong\main.cpp(432,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  LINK : C:\Users\Кирилл\Desktop\pong5\Debug\pong.exe not found or not built by the last incremental link; performing full link
-  pong.vcxproj -> C:\Users\Кирилл\Desktop\pong5\Debug\pong.exe
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(23,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(23,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(23,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(23,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(63,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(64,53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(76,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(81,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(116,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(152,18): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(163,13): warning C4101: 'hbm': unreferenced local variable
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(193,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(193,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(193,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(193,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(207,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(211,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(211,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(211,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(211,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(241,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(242,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(274,33): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(294,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(417,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(418,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(425,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(426,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(430,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(430,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(430,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(430,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(431,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(431,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(432,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Кирилл\source\repos\MrCoxxxx\pong\pong\main.cpp(432,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  LINK : C:\Users\Кирилл\source\repos\MrCoxxxx\pong\Debug\pong.exe not found or not built by the last incremental link; performing full link
+  pong.vcxproj -> C:\Users\Кирилл\source\repos\MrCoxxxx\pong\Debug\pong.exe
